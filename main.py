@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from ui_modified import WikiBotUI  # Ensure this points to the updated UI
+from ui_modified import WikiBotUI
 
 def main():
     app = QApplication(sys.argv)
