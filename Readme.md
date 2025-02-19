@@ -38,7 +38,7 @@ Note: Please limit conversations to simple queries, as the DialogPT-small model 
 This application uses the DialogPT-small model due to system constraints. Users are free to use any other model they prefer, as long as they adjust the code accordingly.
 
 ## Support
-If you encounter any issues or have questions while using WikiBot AI Assistant, please don't hesitate to reach out to me at [Your Email Address]. Your feedback is invaluable as I work on enhancing the functionality of this project.
+If you encounter any issues or have questions while using WikiBot AI Assistant, please don't hesitate to reach out to me @ [arijic284@gmail.com]. Your feedback is invaluable as I work on enhancing the functionality of this project.
 
 ## License
 This project is licensed under the MIT License. Please refer to the LICENSE file for more details.
